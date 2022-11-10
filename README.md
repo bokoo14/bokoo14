@@ -28,3 +28,8 @@
 
 [![Solved.ac 
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung/)
+
+
+ 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung/)
