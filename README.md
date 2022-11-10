@@ -17,3 +17,13 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+
+
+![bokoo's github stats](https://github-readme-stats.vercel.app/api?username=bokoo14&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokoo14)](https://github.com/bokoo14/github-readme-stats)
+
+<img src="http://mazandi.herokuapp.com/api?handle=bokyung&theme=warm"/>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung)
+
