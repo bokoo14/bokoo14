@@ -6,9 +6,11 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/MatLab-000000?style=for-the-badge&logo=matrix&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-F43059?style=for-the-badge&logo=CSSWizardry&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
 
 <a>📚Learnig for..📚</a>
 <br/>
