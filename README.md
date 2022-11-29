@@ -25,8 +25,11 @@
 ![bokoo's github stats](https://github-readme-stats.vercel.app/api?username=bokoo14&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokoo14)](https://github.com/bokoo14/github-readme-stats)
 
-<img src="http://mazandi.herokuapp.com/api?handle=bokyung&theme=warm"/>
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=bokyung&theme=warm"/> -->
 
 
 [![Solved.ac 
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung/)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbokoo14&count_bg=%23AB7CD5&title_bg=%237A7A7A&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
