@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/CSS-F43059?style=for-the-badge&logo=CSSWizardry&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
-<a>:wrench:Techs that I'v used at least once:wrench:</a>
+<a>:wrench: Used at least once :wrench:</a>
 <br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
