@@ -7,12 +7,12 @@
 
 <a>:wrench: Used at least once :wrench:</a>
 <br/>
+<img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/MatLab-000000?style=for-the-badge&logo=matrix&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 
 <a>📚Learnig for..📚</a>
 <br/>
