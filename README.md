@@ -4,8 +4,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-F43059?style=for-the-badge&logo=CSSWizardry&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 
 <a>:wrench: Used at least once :wrench:</a>
 <br/>
