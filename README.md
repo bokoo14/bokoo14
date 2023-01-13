@@ -22,8 +22,8 @@
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> -->
 
 
-![bokoo's github stats](https://github-readme-stats.vercel.app/api?username=bokoo14&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokoo14)](https://github.com/bokoo14/github-readme-stats) 
+<!-- ![bokoo's github stats](https://github-readme-stats.vercel.app/api?username=bokoo14&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokoo14)](https://github.com/bokoo14/github-readme-stats)  -->
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=bokyung&theme=warm"/> -->
 
