@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=250&section=header&animation=twinkling&text=Welcome%20to%20bokoo14😃&fontSize=70&fontColor=EBFBFF"/>
 
-<h5>Hi, I'm Bokyung. I'm learning at KNU computer science and engineering.</h5>
-
+<h4>Hi, I'm Bokyung. 
+   <br>
+  I'm learning at 👩‍💻KNU computer science and engineering👩‍💻
+  <br>
+learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h4>
 <a>💻Tech Stack💻</a>
 <br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
