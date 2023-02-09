@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=250&section=header&animation=twinkling&text=Welcome%20to%20bokoo14😃&fontSize=70&fontColor=EBFBFF"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=200&section=header&animation=twinkling&text=Welcome%20to%20bokoo14😃&fontSize=65&fontColor=EBFBFF"/> -->
 
-<h4>Hi, I'm Bokyung. 
+<h3>Hi, I'm Bokyung. 
    <br>
   I'm learning at 👩‍💻KNU computer science and engineering👩‍💻
   <br>
-learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h4>
+learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h3>
 <br>
 
 <a>💻Tech Stack💻</a>
@@ -35,7 +35,7 @@ learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h4>
 
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=bokyung&theme=warm"/> -->
 
-
+<br><br><br>
 [![Solved.ac 
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung/)
 
