@@ -21,7 +21,7 @@ learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h3>
 <img src="https://img.shields.io/badge/MatLab-000000?style=for-the-badge&logo=matrix&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
-<a>📚Learnig for..📚</a>
+<a>📚Learning for..📚</a>
 <br/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
