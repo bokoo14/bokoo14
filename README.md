@@ -1,16 +1,18 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=200&section=header&animation=twinkling&text=Welcome%20to%20bokoo14😃&fontSize=65&fontColor=EBFBFF"/> -->
 
-<h3>Hi, I'm Bokyung. 
+<h3>Hi, I'm Bokyung(Luna) 
    <br>
   I'm learning at 👩‍💻KNU computer science and engineering👩‍💻
   <br>
-learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h3>
+   and 🍎 Apple Developer Academy @ POSTECH 🍎</h3>
 <br>
 
 <a>💻Tech Stack💻</a>
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 <a>:wrench: Used at least once :wrench:</a>
 <br/>
@@ -24,8 +26,6 @@ learning at 🍎 Apple Developer Academy @ POSTECH 🍎</h3>
 <a>📚Learning for..📚</a>
 <br/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> -->
 
