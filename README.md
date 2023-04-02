@@ -1,10 +1,11 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=200&section=header&animation=twinkling&text=Welcome%20to%20bokoo14😃&fontSize=65&fontColor=EBFBFF"/> -->
 
-<h3>Hi, I'm Bokyung(Luna) 
-   <br>
+<h2>Hi, I'm Bokyung (Luna🌝) </h2>
+<h3>
   I'm learning at 👩‍💻KNU computer science and engineering👩‍💻
   <br>
-   and 🍎 Apple Developer Academy @ POSTECH 🍎</h3>
+   and 🍎 Apple Developer Academy @ POSTECH 🍎
+</h3>
 <br>
 
 <a>💻Tech Stack💻</a>
