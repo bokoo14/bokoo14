@@ -8,7 +8,11 @@
 </h3>
 <br>
 
-<a>💻Tech Stack💻</a>
+
+<a>📨 Contact: </a> <a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> qkrqhru@naver.com
+
+
+<a>💻 Tech Stack 💻</a>
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -24,7 +28,7 @@
 <img src="https://img.shields.io/badge/MatLab-000000?style=for-the-badge&logo=matrix&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
-<a>📚Learning for..📚</a>
+<a>📚 Learning for.. 📚</a>
 <br/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
 <!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> -->
