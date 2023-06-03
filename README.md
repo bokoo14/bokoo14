@@ -9,18 +9,13 @@
 <br>
 
 
-<a>📨 Contact: </a> <a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a> qkrqhru@naver.com
-
-
 <a>💻 Tech Stack 💻</a>
 <br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-
-<a>:wrench: Used at least once :wrench:</a>
-<br/>
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -28,9 +23,9 @@
 <img src="https://img.shields.io/badge/MatLab-000000?style=for-the-badge&logo=matrix&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
-<a>📚 Learning for.. 📚</a>
+<!-- <a>📚 Learning for.. 📚</a>
 <br/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black"> -->
 <!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> -->
 
