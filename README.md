@@ -1,10 +1,9 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=200&section=header&animation=twinkling&text=Welcome%20to%20bokoo14😃&fontSize=65&fontColor=EBFBFF"/> -->
+<img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=200&section=header&animation=twinkling&text=iOS%20Developer,%20%20Bokyung&fontSize=60&fontColor=EBFBFF"/>
 
-<h2>Hi, I'm Bokyung (Luna🌝) </h2>
 <h3>
-  I'm learning at 👩‍💻KNU computer science and engineering👩‍💻
+  👩‍💻KNU computer science and engineering👩‍💻
   <br>
-   and 🍎 Apple Developer Academy @ POSTECH 🍎
+   🍎 Apple Developer Academy @ POSTECH 2nd learner🍎
 </h3>
 <br>
 
@@ -15,19 +14,14 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<!-- 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MatLab-000000?style=for-the-badge&logo=matrix&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-
-<!-- <a>📚 Learning for.. 📚</a>
-<br/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black"> -->
-<!-- <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> -->
-
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
+-->
 
 <!-- ![bokoo's github stats](https://github-readme-stats.vercel.app/api?username=bokoo14&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokoo14)](https://github.com/bokoo14/github-readme-stats)  -->
