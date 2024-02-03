@@ -1,20 +1,29 @@
+<!-- 
 <img src="https://capsule-render.vercel.app/api?type=rect&&color=0:D2D2FF,100:9986EE&height=200&section=header&animation=twinkling&text=iOS%20Developer,%20%20Bokyung&fontSize=60&fontColor=EBFBFF"/>
+-->
 
 <h3>
-  👩‍💻KNU computer science and engineering👩‍💻
+  KNU computer science and engineering
   <br>
-   🍎 Apple Developer Academy @ POSTECH 2nd learner🍎
+  Apple Developer Academy @ POSTECH 2nd learner
 </h3>
 <br>
 
 
 <a>💻 Tech Stack 💻</a>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" /><br>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
+</div>
+
+<!-- 
 <br>
+<img alt="apple" src ="https://img.shields.io/badge/iOS-FFFFFF?&style=for-the-badge&logo=Apple&logoColor=black"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
+<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<!-- 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Java-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
