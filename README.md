@@ -8,14 +8,4 @@
 <br>
 
 
-<a>💻 Tech Stack 💻</a>
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="82" height="82" /><br>
-</div>
-
-<br><br><br>
-[![Solved.ac 
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bokyung)](https://solved.ac/bokyung/)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbokoo14&count_bg=%23AB7CD5&title_bg=%237A7A7A&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![토하면서 해](https://github.com/bokoo14/bokoo14/assets/97583162/72d48be6-893a-4222-9fc7-f4c3b4dd8a46)
